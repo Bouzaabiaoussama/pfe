@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882593005924",
+    "project_id": "allinone-iot",
+    "storage_bucket": "allinone-iot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882593005924:android:0d8fdfd367dedf0bd53a71",
+        "android_client_info": {
+          "package_name": "com.oussama.allinone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrqs5shzl8YURfQ8gkZ9HohU8oUlsaIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
