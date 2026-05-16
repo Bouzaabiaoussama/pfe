@@ -41,3 +41,10 @@ app-example
 # generated native folders
 /ios
 /android
+
+# AI service artifacts
+/backend/ai-service/weights/
+/backend/ai-service/runs/
+/backend/ai-service/detections/
+/backend/ai-service/__pycache__/
+/backend/ai-service/**/*.pt
